@@ -1,0 +1,56 @@
+body {
+  background: #FCF8F5;
+
+}
+
+article {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.conclusion {
+  /* border: 2px solid #AB231A;
+  padding: 12px; */
+  text-align: center;
+}
+
+section {
+  padding: 32px;
+  padding-top: 100px;
+  min-height: 100vh;
+  display: flex;
+  align-items: top;
+  justify-content: center;
+  margin: 12px;
+  flex-basis: 450px;
+  flex-grow: 1;
+}
+
+.content {
+  max-width: 60vw;
+}
+
+#fable01 {
+  /* border: 12px solid #090705; */
+  /* background: #EFCCB6; */
+  background: url('img/snake.jpg') no-repeat top center;
+  background-size: cover;
+}
+
+#fable02 {
+  /* background: #DCA27C; */
+  background: url('img/dog.jpg') no-repeat top center;
+  background-size: cover;
+}
+
+h2 {
+  color : #FCF8F5;
+  font-size: 80px;
+}
+
+#fable03 {
+  /* background: #A46B4D; */
+  background: url('img/lion.jpg') no-repeat top center;
+  background-size: cover;
+}

@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Rozha+One&display=swap');
+
+h1 {
+  text-align: center;
+  color: #A46B4D;
+  font-family: 'Rozha One', serif;
+  font-size: 4em;
+}
+
+p {
+  text-align: justify;
+}
+
+.conclusion {
+  font-family: 'Playfair Display', serif;
+  text-transform: uppercase;
+  margin-top: 50vh;
+  transform: translateY(-50%);
+  color: white;
+  font-size: 2em;
+}
